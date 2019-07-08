@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="about_me">About Me</string>
+    <string name="education">Education</string>
+    <string name="skills">Skills</string>
+    <string name="work">Work</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="education_Heading">My Education</string>
+
+    <!--Education Page study text-->
+    <string name="studies">%s in %s</string>
+    <string name="my_work_experience">My Work Experience</string>
+    <string name="start_date">Start Date %s</string>
+    <string name="end_date">End Date %s</string>
+    <string name="role">Role: %s</string>
+    <string name="responsibilities">Responsibilities</string>
+    <string name="location">Location %s</string>
+    <string name="company">Company %s</string>
+</resources>
